@@ -6,7 +6,7 @@ PR, social media strategy and communications website rooted in Kenya.
 Permanent hosting is pending. Connect this repository to Cloudflare Pages with no framework, no build command, and the repository root as output.
 
 ## Contact
-The existing contact email remains sautiyawakenya0@gmail.com. The enquiry form opens an email draft; it does not store or submit enquiries.
+The existing contact email remains claritymediahouseinc@gmail.com. The enquiry form opens an email draft; it does not store or submit enquiries.
 
 ## Photography
 Retain the on-site Wikimedia photography credits and licence links.
